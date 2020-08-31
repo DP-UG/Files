@@ -1,0 +1,123 @@
+
+
+
+                                 LASSO! V2.0
+                                 ===========
+        
+                          ASCII -> DBF file converter
+        
+                           (c) 1992, 1993 MARK TYNAN
+        	      
+        
+        
+        
+        
+        What is LASSO?
+        ==============
+        
+        LASSO! converts data in non-CSV ASCII files into DBF format 
+        files. LASSO! would ideally be used in a situation where
+        you wanted to convert data in an ASCII report file into DBF
+        format. The fields of data in the ASCII file must be laid
+        out in columns.
+        
+        Unlike most other programs of this type, LASSO! allows you to 
+        view and scroll through your ASCII file and define your fields
+        'on the fly'.
+        
+        LASSO! also allows you to ignore blank lines in your ASCII file 
+        when you are converting to DBF format.
+        
+        
+        
+        Using LASSO!
+        ============
+        
+        LASSO! is extremely simple and intuitive to use - the keys to 
+        available options and menus are always displayed on the screen.
+        
+        When converting an ASCII to a DBF format file, you must have an 
+        appropriate DBF file already set up. LASSO! will append to the 
+        DBF file if it already contains any records.
+        
+        
+        LASSO! demo limitations
+        =======================
+        
+        This is the Public-Domain release of LASSO! and is limited to 100 
+        records. Please feel free to copy and distribute it IN IT'S 
+        ORIGINAL FORM WITHOUT MODIFICATION. 
+        
+        You can get the unrestricted version of LASSO! for $40 by sending 
+        off the order form enclosed in this file. This is the commercial 
+        version of LASSO! and has no limitations on the amount of records 
+        you can create.
+        
+        
+        Differences from LASSO Version 1.00
+        ===================================
+        
+        As such, this is Version 2.0 of LASSO! LASSO! V1.00 could
+        only convert data in ASCII files of up to 80 characters
+        in width, Version 2.0 can now handle ASCII files of up to
+        260 characters in width.
+        
+	The few bugs that existed in Version 1.00 have now been
+        ironed out.
+
+        Cut Here
+        ================================================================================
+        
+                                LASSO! Order Form
+        
+        
+          Please send me the unrestricted commercial version of LASSO!
+        
+        
+        
+        Surname    ......................................
+        
+        
+        First Name ......................................
+        
+        
+        Address    ......................................
+               
+                   ......................................
+        
+                   ......................................
+        
+                   ......................................
+        
+                   ......................................
+        
+        Country    ......................................
+          
+        
+        Telephone  ......................................
+        
+        
+        
+        
+        I obtained my PD copy of LASSO! via ............................
+        
+        
+        
+        
+        I enclose an International Money Order for $40, made payable to 
+        MARK TYNAN.
+        
+        
+        
+        
+                  Please remit to  -   MARK TYNAN,
+                                       18 SEA GRANGE AVE,
+                                       BALDOYLE,
+                                       DUBLIN 13,
+                                       IRELAND.
+        
+        
+
+
+
+
